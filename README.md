@@ -1,6 +1,9 @@
 # Windows XP Solitaire Clone
 
-<img width="1680" height="883" alt="Screenshot 2026-05-03 at 3 53 46 AM" src="https://github.com/user-attachments/assets/056ffb71-a02f-4ced-b69d-d5309babe059" />
+<img width="1675" height="894" alt="Screenshot 2026-05-03 at 5 14 57 PM" src="https://github.com/user-attachments/assets/3d59880c-6a0c-42ba-9422-7ca245b53ee2" />
+
+---------
+<img width="1672" height="892" alt="Screenshot 2026-05-03 at 5 15 16 PM" src="https://github.com/user-attachments/assets/3d072732-10e7-4c84-9810-0c0762ac468b" />
 
 ---------
 
