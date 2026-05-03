@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0" />
+
     <meta
       name="description"
       content="Play a classic Windows XP-style Spider Solitaire game in your browser. Fast loading, smooth controls, and nostalgic green felt gameplay." />
@@ -31,6 +32,20 @@
 
     <link rel="canonical" href="./index.html" />
     <title>Spider Solitaire – Windows XP Style Spider Solitaire (Clone) Online Game</title>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoGame",
+        "name": "Spider Solitaire",
+        "description": "A Windows XP-style Spider Solitaire browser game.",
+        "applicationCategory": "Game",
+        "operatingSystem": "Web Browser",
+        "genre": "Card game",
+        "image": "index.png",
+        "url": "./index.html"
+      }
+    </script>
+
     <style>
       html,
       body,
@@ -126,19 +141,6 @@
     <link id="-gd-engine-icon" rel="icon" type="image/png" href="index.icon.png" />
     <link rel="apple-touch-icon" href="index.apple-touch-icon.png" />
     <link rel="manifest" href="index.manifest.json" />
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "VideoGame",
-        "name": "Spider Solitaire",
-        "description": "A Windows XP-style Spider Solitaire browser game.",
-        "applicationCategory": "Game",
-        "operatingSystem": "Web Browser",
-        "genre": "Card game",
-        "image": "index.png",
-        "url": "./index.html"
-      }
-    </script>
   </head>
   <body>
     <canvas id="canvas"> Your browser does not support the canvas tag. </canvas>
@@ -160,7 +162,7 @@
         ensureCrossOriginIsolationHeaders: true,
         executable: 'index',
         experimentalVK: false,
-        fileSizes: { 'index.pck': 5238504, 'index.wasm': 37685705 },
+        fileSizes: { 'index.pck': 5595796, 'index.wasm': 37685705 },
         focusCanvas: true,
         gdextensionLibs: [],
         godotPoolSize: 4,

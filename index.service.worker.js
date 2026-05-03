@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1777757219|2219105143';
+const CACHE_VERSION = '1777810282|1946487428';
 /** @type {string} */
 const CACHE_PREFIX = 'Solitaire-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
